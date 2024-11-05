@@ -10,3 +10,5 @@ content = "This is some random content for testing purposes.\nFeel free to repla
 
 # Call the function
 write_to_file(filename, content)
+
+print("hello world")
