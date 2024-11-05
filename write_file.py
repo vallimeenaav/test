@@ -12,3 +12,4 @@ content = "This is some random content for testing purposes.\nFeel free to repla
 write_to_file(filename, content)
 
 print("hello world")
+print("bye world")
